@@ -1,7 +1,7 @@
 ### Nicolas Melo 
-* email: melo.nicolas@gmail.com 
-* phone: (954) 701-2330 
-* web: [LinkedIn](https://www.linkedin.com/pub/nicolas-melo/3/a97/472)
+* melo.nicolas@gmail.com 
+* (954) 701-2330 
+* [LinkedIn](https://www.linkedin.com/pub/nicolas-melo/3/a97/472)
 
 #### Profile
 I love solving problems with software.
